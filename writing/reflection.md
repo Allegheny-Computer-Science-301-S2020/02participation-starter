@@ -36,10 +36,9 @@ Please answer after the all questions to the plots have been completed.
  2.2: What can be done, in your opinion, to remove misinformation in the media?
 
 ---
+##### Speaker: Dr. Thu, Department of Biology at Allegheny College
 
-##### Speaker
-
-3.1 Please discuss the take-away message of the speaker.
+3.1 Please summarize Dr. Thu's talk.
 
 3.2 What did you find interesting concerning how data is studied in this area?
 
