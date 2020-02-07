@@ -3,8 +3,6 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for this participation.
 
-![Logo](writing/graphics/cs301.jpg)
-
 ## Introduction
 
 This assignment requires students to study plots which have misleading information and to respond to the _questions in blue_ which are listed in the `writing/reflection.md` file.  
